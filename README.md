@@ -1,6 +1,6 @@
-### Server side : https://github.com/MdHasan0467/Smart-Thrill-Social-Media-Server
+### Server side : https://github.com/MdHasan0467/Thrill-social-media-server
 
-### Client side : https://github.com/MdHasan0467/Smart-Thrill-Social-Media-Client
+### Client side : https://github.com/MdHasan0467/Thrill-social-media-client
 
 ### Hosting link : https://smart-thrill-media.web.app/
 
